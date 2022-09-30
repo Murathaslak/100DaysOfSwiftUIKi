@@ -73,6 +73,7 @@ person.name
 person.makeAnonymous()
 person.name
 
+
 //Properties and methods of strings
 //hasPrefix -> İstenen string ile başlıyorsa true döner
 let string = "Do or do not, there is no try."
